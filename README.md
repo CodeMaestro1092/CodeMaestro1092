@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=webman2006&label=Profile%20views&color=0e75b6&style=flat" alt="webman2006" /> </p>
 
-- 🌱 I’m currently learning **JavaScript and Angular**
+- 🌱 I’m currently learning **Angular**
 
 - 👨‍💻 All of my projects are available at [https://github.com/WebMan2006/project](https://github.com/WebMan2006/project)
 
