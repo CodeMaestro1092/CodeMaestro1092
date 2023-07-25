@@ -22,8 +22,3 @@
 <a href="https://www.facebook.com/profile.php?id=100069656258383" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tornike eloshvili" height="30" width="40" /></a>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=webman2006&show_icons=true&locale=en&layout=compact" alt="webman2006" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=webman2006&show_icons=true&locale=en" alt="webman2006" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=webman2006&" alt="webman2006" /></p>
