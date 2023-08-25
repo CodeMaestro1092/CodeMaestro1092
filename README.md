@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/WebMan2006/project](https://github.com/WebMan2006/project)
 
-- 💬 Ask me about **Front end Angular Dev**
+- 💬 Ask me about **Front end Angular Dev and React Dev**
 
 - 📫 How to reach me **tornikeeloshvili77@gmail.com**
 
