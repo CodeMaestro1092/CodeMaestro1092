@@ -1,6 +1,6 @@
 ![logo](https://wallpaperaccess.com/full/2825710.gif)
 <h1 align="center">Hi 👋, I'm Tornike Eloshvili</h1>
-<h3 align="center">A passionate frontend developer from georgia</h3>
+<h3 align="center">A passionate full stack developer from georgia</h3>
 
 <img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/WebMan2006/project](https://github.com/WebMan2006/project)
 
-- 💬 Ask me about **Front end Angular Dev and React Dev**
+- 💬 Ask me about **Full Stack Web Development**
 
 - 📫 How to reach me **tornikeeloshvili77@gmail.com**
 
