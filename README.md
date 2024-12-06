@@ -1,20 +1,16 @@
 ![logo](https://wallpaperaccess.com/full/2825710.gif)
 <h1 align="center">Hi 👋, I'm Tornike Eloshvili</h1>
-<h3 align="center">A passionate full stack developer from georgia</h3>
+<h3 align="center">Trying to become an IT department</h3>
 
 <img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=webman2006&label=Profile%20views&color=0e75b6&style=flat" alt="webman2006" /> </p>
 
-- 🌱 I’m currently learning **Node.js**
-
-- 👨‍💻 All of my projects are available at [https://github.com/WebMan2006/project](https://github.com/WebMan2006/project)
-
 - 💬 Ask me about **Full Stack Web Development**
 
 - 📫 How to reach me **tornikeeloshvili77@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/tornike-eloshvili-40b729252/](https://www.linkedin.com/in/tornike-eloshvili-40b729252/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/tornike-eloshvili](https://www.linkedin.com/in/tornike-eloshvili/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
